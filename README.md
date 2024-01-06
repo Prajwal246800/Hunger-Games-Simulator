@@ -1,4 +1,3 @@
-# CPP-SEM3-miniProject
 # Hunger Games Simulator
 
 This C++ project is a text-based simulation of the Hunger Games, based on the popular book and movie series. It allows players to experience the events of the Hunger Games through a command-line interface.
